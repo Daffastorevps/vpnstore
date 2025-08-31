@@ -65,7 +65,7 @@ The "UDP Custom Manager" script enables UDP on a 64-bit VPS, provides functional
 
 1. Download and run the installation script:
     ```sh
-    wget "https://raw.githubusercontent.com/Riswan481/vpnstore/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
+    wget "https://raw.githubusercontent.com/Daffastorevps/vpnstore/main/install.sh" -O install.sh && chmod +x install.sh && bash install.sh
     ```
     
 
